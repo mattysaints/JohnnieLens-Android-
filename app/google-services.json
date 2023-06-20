@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477349207634",
+    "firebase_url": "https://johnnielens-246ee.firebaseio.com",
+    "project_id": "johnnielens-246ee",
+    "storage_bucket": "johnnielens-246ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477349207634:android:73482f9dc46d24d358498b",
+        "android_client_info": {
+          "package_name": "com.example.johnnielens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477349207634-50o2333oerhns3fonj42pcvnqvekem87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaHIbuvL9VbefHsUUsYsWbvlw-zVf1-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477349207634-50o2333oerhns3fonj42pcvnqvekem87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
